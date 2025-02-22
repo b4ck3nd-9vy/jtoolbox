@@ -21,4 +21,4 @@ jobs:
       - name: Publish to GitHub Packages
         run: mvn deploy
         env:
-          DEPLOY: ${{ secrets.PACDEPLOY }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
