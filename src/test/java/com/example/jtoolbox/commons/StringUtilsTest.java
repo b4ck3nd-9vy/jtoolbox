@@ -11,4 +11,9 @@ class StringUtilsTest {
     assertEquals("olleH", StringUtils.reverse("Hello"));
   }
 
+  @Test
+  void testJoin() {
+    assertEquals("Hello World", StringUtils.join(new String[]{"Hello", "World"}, " "));
+  }
+
 }
