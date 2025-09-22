@@ -13,7 +13,7 @@
   <properties>
     <java.version>21</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <compiler.version>3.14.0</compiler.version>
+    <compiler.version>3.14.1</compiler.version>
     <resources.version>3.3.1</resources.version>
 
     <commons-lang3.version>3.18.0</commons-lang3.version>
