@@ -14,7 +14,7 @@
     <java.version>21</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <compiler.version>3.14.1</compiler.version>
-    <resources.version>3.3.1</resources.version>
+    <resources.version>3.4.0</resources.version>
 
     <commons-lang3.version>3.20.0</commons-lang3.version>
     <guava.version>33.5.0-jre</guava.version>
